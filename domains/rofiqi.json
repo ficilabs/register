@@ -1,8 +1,9 @@
 {
     "owner": {
-        "username": "ficilabs"
+        "username": "ficilabs",
+        "email": "vickycotot977@gmail.com"
     },
     "records": {
-        "CNAME": "nuxt-portfolio-mocha-omega.vercel.app"
+        "A": ["216.198.79.1"]
     }
 }
